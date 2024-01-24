@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Intermediate Python, AI and Discord Bot developer
 -------------------------------------------------
 
-I'm a highschool student working on basic python coding. My main language is Python but i also use javascript and SQL.
+I'm a highschool student working on basic python coding. My main language is Python but i also use C,a bit of javascript and SQL.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abul48820@gmail.com](mailto:abul48820@gmail.com)
