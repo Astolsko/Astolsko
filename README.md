@@ -7,7 +7,7 @@ Intermediate Python, AI and Discord Bot developer
 I'm a highschool student working on basic python coding. My main language is Python but i also use javascript and SQL.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [astolsko48820@gmail.com](mailto:abul48820@gmail.com)
+* ✉️  You can contact me at [abul48820@gmail.com](mailto:abul48820@gmail.com)
 * 🧠  I'm learning Machine Learning & Data Sciences 
 
 <a href="https://www.github.com/Astolsko" target="_blank" rel="noreferrer"><img
