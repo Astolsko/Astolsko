@@ -5,6 +5,7 @@ Intermediate Python, AI and Discord Bot developer
 -------------------------------------------------
 
 I'm a College student working on various areas of Deep Learning. 
+
 My main language is Python but i also use C,a bit of javascript.
 
 * 🌍  I'm based in India
