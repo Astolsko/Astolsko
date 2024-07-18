@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Astolsko
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abul Hasan
 ================================================================================================================================
 
 Intermediate Python, AI and Discord Bot developer
 -------------------------------------------------
 
-I'm a highschool student working on basic python coding. My main language is Python but i also use C,a bit of javascript and SQL.
+I'm a College student working on various areas of Deep Learning. My main language is Python but i also use C,a bit of javascript.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abul48820@gmail.com](mailto:abul48820@gmail.com)
-* 🧠  I'm learning Machine Learning & Data Sciences 
+* 🧠  I'm learning Artificial intelligence & Data science.
 
 <a href="https://www.github.com/Astolsko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Astolsko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
