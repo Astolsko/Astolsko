@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Intermediate Python, AI and Discord Bot developer
 -------------------------------------------------
 
-I'm a College student working on various areas of Deep Learning. My main language is Python but i also use C,a bit of javascript.
+I'm a College student working on various areas of Deep Learning. 
+My main language is Python but i also use C,a bit of javascript.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abul48820@gmail.com](mailto:abul48820@gmail.com)
